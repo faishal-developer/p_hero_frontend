@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  gap: 24px;
+}
+
+.mainContent {
+  background-color: white;
+  padding: 24px;
+  border-radius: 6px;
+  box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+  flex: 1;
+}
+
+.mainFilter {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.filterOne {
+  flex: 1;
+}
+
+.filterTwo {
+  display: flex;
+  gap: 10px;
+}
+
+.sideContent {
+  background-color: white;
+  width: 23%;
+  padding: 20px;
+  border-radius: 6px;
+  box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.1);
+}
+
+.sideItems {
+  margin-top: 10px;
+}
+
+.sideItems div {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.sideItems div input {
+  margin-top: 10px;
+}
+
+
+/* Single Page */

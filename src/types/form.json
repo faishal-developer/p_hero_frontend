@@ -1,0 +1,15 @@
+{
+    "title":"new form",
+    "quizes":[
+        {
+            "type":"radio",
+            "options":"radio",
+            "title":"radio",
+            "description":"radio",
+            "marks":"radio",
+            "ans":"radio",
+            "image":"radio",
+            "form_id":"radio"
+        }
+    ]
+}
